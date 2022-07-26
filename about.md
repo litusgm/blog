@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
 
-Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
+Este es mi blog personal, cajón de (de)sastre, lugar donde poner todo aquello que pasa, o no, por mi cabeza.
 
-![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
-
-## Getting Started
-The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
-
-    git clone https://github.com/SalGnt/Travelogue.git
-    cd Travelogue
-    jekyll serve
-
-Visit the [Jekyll website](http://jekyllrb.com/) for more information.
+![Cajón de Sastre](https://user-images.githubusercontent.com/109998342/181071446-9b993aa8-b458-4a1c-abde-201d0ab0833e.jpg)

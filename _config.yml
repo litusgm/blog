@@ -1,9 +1,9 @@
 # Site settings
-name: Travelogue
-description: "A minimal, single-column Jekyll theme that provides an immersive read experience for your readers"
+name: Carlos Guerra
+description: "Blog personal. Cajón de (de)sastre. Un poco de todo."
 
-baseurl: "/Travelogue" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://carlosguerra.es" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -15,9 +15,9 @@ paginate: 8
 paginate_path: page/:num/
 
 author:
-    name: "Salvatore Gentile"
+    name: "Carlos Guerra"
     email: ""
-    uri: "https://github.com/SalGnt"
+    uri: "https://carlosguerra.es"
 
 sass:
     sass_dir: _sass
@@ -33,8 +33,8 @@ defaults:
           show_tags: true
           show_categories: true
           # Social
-          share_buttons: true
-          disqus: true
+          share_buttons: false
+          disqus: false
 
 plugins:
     - jekyll-feed
